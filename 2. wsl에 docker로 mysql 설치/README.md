@@ -4,7 +4,7 @@
 
 이 가이드를 따르기 전에 WLS와 Docker가 시스템에 설치되어 있는지 확인해주세요.
 
-  > 만약에 설치가 안되어 있으면 [WLS 설치 가이드](https://github.com/sw-dreamer/wsl-install.git)와 [Docker 설치 가이드](https://github.com/sw-dreamer/wsl-docker.git)를 참조하여 설치를 진행해 주시기 바랍니다.
+  > 만약에 설치가 안되어 있으면 [WLS 설치 가이드](https://github.com/sw-dreamer/wsl/blob/main/0.%20wsl%20install/README.md)와 [Docker 설치 가이드](https://github.com/sw-dreamer/wsl/blob/main/1.%20wsl%EC%97%90%20docker%20%EC%84%A4%EC%B9%98%20(cli%EC%9A%A9)/README.md)를 참조하여 설치를 진행해 주시기 바랍니다.
 
 ## 1. Docker에서 MySQL 이미지 확인
   먼저, Docker에서 사용할 MySQL 이미지를 검색합니다.
