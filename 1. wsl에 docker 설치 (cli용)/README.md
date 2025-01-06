@@ -1,3 +1,7 @@
+# Docker CLI 설치 (WSL 환경)
+
+Docker Desktop을 사용하지 않고 Docker CLI만 설치하려면, Docker의 CLI 도구를 WSL 배포판에 설치할 수 있습니다. 예를 들어, Ubuntu에서 Docker를 설치하는 방법은 다음과 같습니다.
+
 ### Docker CLI (옵션)
 
 Docker CLI만 설치하고 Docker Desktop을 사용하지 않으려면, Docker의 CLI 도구를 WSL 배포판에 설치할 수 있습니다. 예를 들어, Ubuntu에서 Docker를 설치하려면 아래 명령어를 실행하세요:
